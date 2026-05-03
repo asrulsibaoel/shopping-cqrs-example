@@ -35,7 +35,7 @@
     "resolve-storage-mysql": "^0.20.25",
     "resolve-subscribe-mqtt": "0.20.25",
     "resolve-subscribe-socket.io": "0.20.25",
-    "uuid": "3.3.2",
+    "uuid": "14.0.0",
     "zeromq": "^5.1.0"
   },
   "devDependencies": {
